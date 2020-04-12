@@ -2,7 +2,6 @@
 /.idea/workspace*
 /.idea/vcs*
 /target/maven-status/maven-compiler-plugin/compile/default-compile/*.lst
-*.xml
 .idea/**/workspace.xml
 .idea/**/tasks.xml
 .idea/**/usage.statistics.xml
