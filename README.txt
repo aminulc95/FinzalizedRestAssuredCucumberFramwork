@@ -1,4 +1,3 @@
-Designed and implemented by Aminul Chowdhury
 Github IRL [https://github.com/aminulc95/FinzalizedRestAssuredCucumberFramwork.git]
 
 This framework is for API testing
