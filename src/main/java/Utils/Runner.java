@@ -15,6 +15,6 @@ import org.junit.runner.RunWith;
         glue = {"StepDefinitions", "Utils"}
 )
 
-public class MyRunner{
+public class Runner {
     }
 

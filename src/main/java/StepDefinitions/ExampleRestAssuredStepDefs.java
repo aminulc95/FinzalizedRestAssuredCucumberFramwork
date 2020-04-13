@@ -5,7 +5,6 @@ import Utils.Base;
 import cucumber.api.java.en.Given;
 import io.restassured.RestAssured;
 import io.restassured.response.Response;
-import io.restassured.response.ResponseBody;
 import io.restassured.specification.RequestSpecification;
 import org.json.JSONObject;
 import org.junit.Assert;
