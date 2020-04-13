@@ -3,10 +3,13 @@ Github URL [https://github.com/aminulc95/FinzalizedRestAssuredCucumberFramwork.g
 This framework is for automating REST services using Cucumber/Java/RestAssured
 -------------------------------------------------------------------------------------------------------------------------------
 
+To Run taged sceanrios from feature files navigate to Runner.java and press start
+-------------------------------------------------------------------------------------------------------------------------------
+
 FilePaths
     -StepDefs [src\main\java\StepDefinitions]
     -Base [src\main\java\Utils\Base.java]
-	-Runner [src\main\java\Utils\Runner.java]
+    -Runner [src\main\java\Utils\Runner.java]
     -FeatureFiles [src\test\java\FeatureFiles]
     -Auto Generated Reports [reports\cucumber-html-report\index.html]
 -------------------------------------------------------------------------------------------------------------------------------
