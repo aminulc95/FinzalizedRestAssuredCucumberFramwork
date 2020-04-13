@@ -1,10 +1,14 @@
-This setup is for API testing.
+Designed and implemented by Aminul Chowdhury
+Github IRL [https://github.com/aminulc95/FinzalizedRestAssuredCucumberFramwork.git]
+
+This framework is for API testing
 -------------------------------------------------------------------------------------------------------------------------------
 
 FilePaths
     -StepDefs [src\main\java\StepDefinitions]
     -Utils [src\main\java\Utils]
     -FeatureFiles [src\test\java\FeatureFiles]
+    -Auto Generated Reports [reports\cucumber-html-report\index.html]
 -------------------------------------------------------------------------------------------------------------------------------
 
 MyRunner.java details
@@ -68,4 +72,4 @@ Feature: Perform API Validation Using Rest Assured Libraries
       | http://dummy.restapiexample.com | /api/v1/create | Jorge Jackson | 400000 | 50  | 200        |
 -------------------------------------------------------------------------------------------------------------------------------
 
-HTML report will generate post test excicution and be saved in [reports\cucumber-html-report\index.html]. Right click and open with browser to view
+HTML report will generate post test execution and be saved in above mentioned path. Right click and open with browser to view
